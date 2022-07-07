@@ -68,7 +68,7 @@ header {
     }
 }
 
-/* ===================== Media Queries (Medium) ===================== */
+/* ===================== Media Queries (Small) ===================== */
 
 @media screen and (max-width: 600px) {
     header {
