@@ -39,7 +39,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white-);
     line-height: 1.7;
-    background: url(../../wallpaper.jpg) fixed center;
+    background: url(../src/assets/wallpaper.jpg) fixed center;
 }
 
 /* ===================== General Styles ===================== */
